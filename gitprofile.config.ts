@@ -84,12 +84,7 @@ const CONFIG = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'JavaScript',
-    'React.js',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'Python'
+    'Python', 'JavaScript', 'SQL', 'HTML/CSS', 'RabbitMQ', 'Docker', 'Pyspark', 'GCP Cloud', 'E2E Cloud','Git'
   ],
   experiences: [
     {
